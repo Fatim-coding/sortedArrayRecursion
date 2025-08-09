@@ -1,4 +1,4 @@
-
-my_list = [1, 2, 3, 4, 5]
-length = len(my_list)
-print("The length of the list is:", length)
+def arrayTotalsum(a):
+    length = len(a)
+a = [1,2,3,6]
+print("Array total sum:",arrayTotalsum )
